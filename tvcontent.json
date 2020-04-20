@@ -1,4 +1,18 @@
 {
+	"banners" : [
+		{
+		  "img": "https://i.pinimg.com/originals/e0/a3/af/e0a3af6c70bada6658a81dda55e50557.jpg",
+		  "videoSrc": "FrenchTv/SKAM%20FRANCE%20S1%20-%20Episode%204.mp4"
+		},
+		 {
+		  "img": "https://i.ytimg.com/vi/eADOgw1xw9M/maxresdefault.jpg",
+		  "videoSrc": "cooking/Nutella%20Stuffed%20Buns%20Recipe.mp4"
+		},
+		 {
+		  "img": "https://i.ytimg.com/vi/LQ-mwO30_68/maxresdefault.jpg",
+		  "videoSrc": "FrenchTv/French%20Overseas%20Regions%20and%20Territories%20Explained.mp4"
+		}
+	  ],
   "content": [
     {
       "categoryName": "French TV",
