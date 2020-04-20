@@ -1,0 +1,36 @@
+{
+  "videoList" : [
+    {
+      "videoSrc": "FrenchTv/French%20Overseas%20Regions%20and%20Territories%20Explained.mp4",
+      "img": "https://i.ytimg.com/vi/LQ-mwO30_68/maxresdefault.jpg"
+    },
+    {
+      "videoSrc": "FrenchTv/MA%20BELLE-MERE%20NE%20VEUT%20PAS%20QUE%20J'%20EPOUSE%20SON%20FILS%20%20PARCE%20QUE%20JE%20SUIS%20PAUVRE%20ET%20LUI%20RICHE-%20FILM%20201919.mp4",
+      "img": "https://i.ytimg.com/vi/B4UsS1faMGQ/maxresdefault.jpg"
+    },
+    {
+      "videoSrc": "FrenchTv/SKAM%20FRANCE%20S1%20-%20Episode%204.mp4",
+      "img": "https://vignette.wikia.nocookie.net/skam6609/images/2/28/Skam_France_Saison_4_-_Bande_annonce/revision/latest/scale-to-width-down/670?cb=20190406074945"
+    },
+    {
+      "videoSrc": "FrenchTv/French%20Airport%20-%20Comedy.mp4",
+      "img": "https://i.cbc.ca/1.5231340.1567376807!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/air-canada-ottawa-international-airport-yow.jpg"
+    },
+    {
+      "videoSrc": "FrenchTv/Sympt%f4mes%20d'Amour%20(48HFP%20Montpellier%202014%20-%20Prix%20du%20Meilleur%20Film).mp4",
+      "img": "https://i.ytimg.com/vi/cki1P3wsJ4A/maxresdefault.jpg"
+    },
+    {
+      "videoSrc": "FrenchTv/TIGER,%20TIGRESS%20(English%20subtitles,%20French%20original.%20A%20Scenarios%20from%20Africa%20film).mp4",
+      "img": "https://i.ytimg.com/vi/XE5BKU9aJCg/maxresdefault.jpg"
+    },
+    {
+      "videoSrc": "FrenchTv/SKAM%20France%20Season%201%20Episode%203%20ENGLISH%20SUBS.mp4",
+      "img": "https://i.ytimg.com/vi/fFgIVNEhFsc/maxresdefault.jpg"
+    },
+    {
+      "videoSrc": "FrenchTv/MAUVAISE%20%20BELLE-M%c8RE%20-%20CAMEROONIAN%20MOVIE%20%20LATEST%20FRENCH%20MOVIES%20%202018%20AFRICAN%20MOVIE.mp4",
+      "img": "https://i.ytimg.com/vi/XMCT9NjuuFQ/maxresdefault.jpg"
+    }
+  ]
+}
