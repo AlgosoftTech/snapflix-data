@@ -1,4 +1,21 @@
 {
+"banners" : [
+    {
+      "img": "https://msjtodayblog.files.wordpress.com/2019/11/f101dde4-a5c9-4fe2-a020-0317d193e79e.jpeg?w=1200",
+			"videoSrc": "Joker%20(2019)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D/Joker.2019.720p.BluRay.x264-%5BYTS.LT%5D.mp4",
+			"title": "new-data"
+    },
+     {
+      "img": "https://www.pxlagency.com/assets/images/projects/bad-boys-for-life-meme-maker/bad-boys-banner.jpg",
+			"videoSrc": "Bad%20Boys%20For%20Life%20(2020)%20%5B720p%5D%20%5BWEBRip%5D%20%5BYTS.MX%5D/Bad.Boys.For.Life.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4",
+			"title": "new-data"
+    },
+     {
+      "img": "https://www.q-tickets.com/movie_images/BLOODSHOT_(ENGLISH)_banner.jpg",
+			"videoSrc": "Bloodshot%20(2020)%20%5B720p%5D%20%5BWEBRip%5D%20%5BYTS.MX%5D/Bloodshot.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4",
+			"title": "new-data"
+    }
+  ],
   "content": [
     {
       "categoryName": "New Movies",
