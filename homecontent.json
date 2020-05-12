@@ -109,6 +109,146 @@
     ]
   },
   {
+    "categoryName": "Harry Potter",
+    "videoList": [
+      [
+        {
+          "id" : "25",
+          "title": "new-data",
+          "rating": "7.0",
+          "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+          "videoSrc": "Harry.Potter.And.The.Philosopher's.Stone.2001.BDRip.720p.x264.aac.2.0/Harry.Potter.And.The.Philosopher's.Stone.2001.BDRip.720p.mkv",
+          "img": "https://pics.filmaffinity.com/Harry_Potter_and_the_Sorcerer_s_Stone-413143814-large.jpg"
+        },
+        {
+          "id" : "26",
+          "title": "new-data",
+          "rating": "5.1",
+          "description": "The story of the nobleman-turned-outlaw hero who was crowned king of Scots in the 14th century",
+          "videoSrc": "harrypotter2-chambersofsecrets/Harry_Potter_and_the_Chamber_of_Secrets_2002.mkv",
+          "img": "https://is5-ssl.mzstatic.com/image/thumb/Video123/v4/d5/7a/69/d57a69f0-2ad1-5819-d126-bac90f612ad6/HP2_H_DD_KA_TT_3840x2160_300dpi_IN.lsr/1200x630.jpg"
+        },
+        {
+          "id" : "27",
+          "title": "new-data",
+          "rating": "6.4",
+          "description": "The flightless birds and scheming green pigs take their feud to the next level.",
+          "videoSrc": "harrypotter3-prisonerofazkaban/Harry_Potter_and_the_Prisoner_of_Azkaban_2004.mkv",
+          "img": "https://siskiyou.sou.edu/wp-content/uploads/2020/03/4825108788-1024x640.jpg"
+        },
+        {
+          "id" : "28",
+          "title": "new-data",
+          "rating": "8.0",
+          "description": "When a new toy called Forky joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+          "videoSrc": "harrypotter4-gobletoffire/Harry_Potter_and_the_Goblet_of_Fire_2005.mkv",
+          "img": "https://media-cache.cinematerial.com/p/500x/onkmqwrq/harry-potter-and-the-goblet-of-fire-movie-poster.jpg?v=1479110280"
+        }
+      ],
+      [
+        {
+          "id" : "29",
+          "title": "new-data",
+          "rating": "7.3",
+          "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery",
+          "videoSrc": "harrypotter5-orderofthephoenix/Harry_Potter_and_the_Order_of_the_Phoenix_2007.mkv",
+          "img": "https://media-cache.cinematerial.com/p/500x/x6jnkoxv/harry-potter-and-the-order-of-the-phoenix-movie-poster.jpg?v=1479110502"
+        },
+        {
+          "id" : "30",
+          "title": "new-data",
+          "rating": "7.0",
+          "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+          "videoSrc": "harrypotter6-halfbloodprince/Harry_Potter_and_the_Half_Blood_Prince_2009.mkv",
+          "img": "https://upload.wikimedia.org/wikipedia/en/3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg"
+        },
+        {
+          "id" : "31",
+          "title": "new-data",
+          "rating": "5.1",
+          "description": "The story of the nobleman-turned-outlaw hero who was crowned king of Scots in the 14th century",
+          "videoSrc": "/Harry%20Potter%20And%20The%20Deathly%20Hallows%20Part%201%20(2010)/HP7.2010.BRRip.720p.Bluray.YIFY.mkv",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx9_2lQarl6l62oWyaAntDkr7H6VDihJLpoEgAqZiHe3yQrhsy&usqp=CAU"
+        },
+        {
+          "id" : "32",
+          "title": "new-data",
+          "rating": "6.4",
+          "description": "The flightless birds and scheming green pigs take their feud to the next level.",
+          "videoSrc": "Harry%20Potter%20And%20The%20Deathly%20Hallows%20Part%202%20(2011)/Harry.Potter.And.The.Deathly.Hallows.Part.2.2011.720p.BrRip.264.YIFY.mkv-muxed.mp4",
+          "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1.jpg"
+        }
+      ]
+    ],
+    "mobVideoList": [
+      {
+          "id" : "25",
+          "title": "new-data",
+          "rating": "7.0",
+          "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+          "videoSrc": "Harry.Potter.And.The.Philosopher's.Stone.2001.BDRip.720p.x264.aac.2.0/Harry.Potter.And.The.Philosopher's.Stone.2001.BDRip.720p.mkv",
+          "img": "https://pics.filmaffinity.com/Harry_Potter_and_the_Sorcerer_s_Stone-413143814-large.jpg"
+        },
+        {
+          "id" : "26",
+          "title": "new-data",
+          "rating": "5.1",
+          "description": "The story of the nobleman-turned-outlaw hero who was crowned king of Scots in the 14th century",
+          "videoSrc": "harrypotter2-chambersofsecrets/Harry_Potter_and_the_Chamber_of_Secrets_2002.mkv",
+          "img": "https://is5-ssl.mzstatic.com/image/thumb/Video123/v4/d5/7a/69/d57a69f0-2ad1-5819-d126-bac90f612ad6/HP2_H_DD_KA_TT_3840x2160_300dpi_IN.lsr/1200x630.jpg"
+        },
+        {
+          "id" : "27",
+          "title": "new-data",
+          "rating": "6.4",
+          "description": "The flightless birds and scheming green pigs take their feud to the next level.",
+          "videoSrc": "harrypotter3-prisonerofazkaban/Harry_Potter_and_the_Prisoner_of_Azkaban_2004.mkv",
+          "img": "https://siskiyou.sou.edu/wp-content/uploads/2020/03/4825108788-1024x640.jpg"
+        },
+        {
+          "id" : "28",
+          "title": "new-data",
+          "rating": "8.0",
+          "description": "When a new toy called Forky joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+          "videoSrc": "harrypotter4-gobletoffire/Harry_Potter_and_the_Goblet_of_Fire_2005.mkv",
+          "img": "https://media-cache.cinematerial.com/p/500x/onkmqwrq/harry-potter-and-the-goblet-of-fire-movie-poster.jpg?v=1479110280"
+        },
+		{
+          "id" : "29",
+          "title": "new-data",
+          "rating": "7.3",
+          "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery",
+          "videoSrc": "harrypotter5-orderofthephoenix/Harry_Potter_and_the_Order_of_the_Phoenix_2007.mkv",
+          "img": "https://media-cache.cinematerial.com/p/500x/x6jnkoxv/harry-potter-and-the-order-of-the-phoenix-movie-poster.jpg?v=1479110502"
+        },
+        {
+          "id" : "30",
+          "title": "new-data",
+          "rating": "7.0",
+          "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+          "videoSrc": "harrypotter6-halfbloodprince/Harry_Potter_and_the_Half_Blood_Prince_2009.mkv",
+          "img": "https://upload.wikimedia.org/wikipedia/en/3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg"
+        },
+        {
+          "id" : "31",
+          "title": "new-data",
+          "rating": "5.1",
+          "description": "The story of the nobleman-turned-outlaw hero who was crowned king of Scots in the 14th century",
+          "videoSrc": "/Harry%20Potter%20And%20The%20Deathly%20Hallows%20Part%201%20(2010)/HP7.2010.BRRip.720p.Bluray.YIFY.mkv",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx9_2lQarl6l62oWyaAntDkr7H6VDihJLpoEgAqZiHe3yQrhsy&usqp=CAU"
+        },
+        {
+          "id" : "32",
+          "title": "new-data",
+          "rating": "6.4",
+          "description": "The flightless birds and scheming green pigs take their feud to the next level.",
+          "videoSrc": "Harry%20Potter%20And%20The%20Deathly%20Hallows%20Part%202%20(2011)/Harry.Potter.And.The.Deathly.Hallows.Part.2.2011.720p.BrRip.264.YIFY.mkv-muxed.mp4",
+          "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1.jpg"
+        }
+    ]
+  },
+  
+  {
     "categoryName": "New Movies",
     "videoList": [
       [
